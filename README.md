@@ -26,25 +26,25 @@
 - lancer l'API Rest :
   `npm run start`
 
-- installer express.js
+- installer express.js :
   `npm install express --save`
 
-- installer nodemon
+- installer nodemon :
   `npm install --save-dev nodemon`
 
-- installer morgan
+- installer morgan :
   `npm install morgan --save-dev`
 
-- install serve-favicon
+- install serve-favicon :
   `npm install serve-favicon --save`
 
-- install body-parser
+- install body-parser :
   `npm install body-parser --save`
 
-- install sequelize
+- install sequelize :
   `npm install sequelize --save`
 
-- install mariadb driver
+- install mariadb driver :
   `npm install mariadb --save`
 
 ### 📄 Notes :
