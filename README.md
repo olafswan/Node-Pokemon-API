@@ -21,16 +21,31 @@
 ### 🖥 Terminal commands used
 
 - creer le fichier package.json :
-  npm init
+  `npm init`
 
 - lancer l'API Rest :
-  npm run start
+  `npm run start`
 
 - installer express.js
-  npm install express --save
+  `npm install express --save`
 
 - installer nodemon
-  npm install --save-dev nodemon
+  `npm install --save-dev nodemon`
+
+- installer morgan
+  `npm install morgan --save-dev`
+
+- install serve-favicon
+  `npm install serve-favicon --save`
+
+- install body-parser
+  `npm install body-parser --save`
+
+- install sequelize
+  `npm install sequelize --save`
+
+- install mariadb driver
+  `npm install mariadb --save`
 
 ### 📄 Notes :
 
@@ -38,6 +53,6 @@
 
 - const { success } = require("./helper"); permet d'importer directement la methode success du fichier helper
 
-### TAGS :
+### 🏷️ TAGS :
 
-express / node / API Rest
+express / node / API Rest / xampp / MariaDB / PHPMyAdmin / Insomnia / Sequelize
